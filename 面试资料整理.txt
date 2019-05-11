@@ -14,6 +14,7 @@
 13.使用Redis做防止重复提交(http://www.cnblogs.com/dream-to-pku/p/7615139.html)
 14.TOP K 问题(https://blog.csdn.net/zyq522376829/article/details/47686867)
 15.在浏览器中输入网址，按下回车键后，发生了什么（https://blog.csdn.net/composurext/article/details/78894537）
+16.
 
 
 
@@ -217,7 +218,7 @@ java:
 
 17.介绍完整的分布式中间件有哪些，各自的应用场景和作用。(http://youzhixueyuan.com/ali-p8-architect-talk-message-middleware-selection-and-usage-scenarios.html)
 
-18.双11秒杀活动，你的技术架构设计思路。
+18.双11秒杀活动，你的技术架构设计思路（https://blog.csdn.net/xxxcyzyy/article/details/88264510）
 
 19.枚举类
 
