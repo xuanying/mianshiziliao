@@ -14,7 +14,10 @@
 13.使用Redis做防止重复提交(http://www.cnblogs.com/dream-to-pku/p/7615139.html)
 14.TOP K 问题(https://blog.csdn.net/zyq522376829/article/details/47686867)
 15.在浏览器中输入网址，按下回车键后，发生了什么（https://blog.csdn.net/composurext/article/details/78894537）
-16.
+16.redis哨兵、集群、内存回收
+17.springboot的路由分发过程
+18.mbatis如何映射字段和属性
+19.
 
 
 
