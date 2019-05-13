@@ -14,10 +14,12 @@
 13.使用Redis做防止重复提交(http://www.cnblogs.com/dream-to-pku/p/7615139.html)
 14.TOP K 问题(https://blog.csdn.net/zyq522376829/article/details/47686867)
 15.在浏览器中输入网址，按下回车键后，发生了什么（https://blog.csdn.net/composurext/article/details/78894537）
-16.redis哨兵、集群、内存回收
-17.springboot的路由分发过程
+16.redis哨兵（https://www.cnblogs.com/jaycekon/p/6237562.html)Redis内存回收机制（https://blog.csdn.net/tr1912/article/details/81267910）
+17.springboot的路由分发过程（http://blog.sina.com.cn/s/blog_654116410102ygam.html）
 18.mbatis如何映射字段和属性
-19.
+19.数据库主从分离读写复制，主服务器给从服务器发送的信号是什么（https://blog.csdn.net/itcats_cn/article/details/82155651）
+20.http请求头中的字段（https://www.cnblogs.com/chunlei36/p/6927365.html）
+21.
 
 
 
