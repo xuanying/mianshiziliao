@@ -19,7 +19,10 @@
 18.mbatis如何映射字段和属性
 19.数据库主从分离读写复制，主服务器给从服务器发送的信号是什么（https://blog.csdn.net/itcats_cn/article/details/82155651）
 20.http请求头中的字段（https://www.cnblogs.com/chunlei36/p/6927365.html）
-21.
+21.redis数据结构(https://blog.csdn.net/qianfeng_dashuju/article/details/90210291)
+22.java封箱拆箱（https://blog.csdn.net/ni357103403/article/details/47130879）
+23.http、https(https://blog.csdn.net/kobejayandy/article/details/52433660)
+24.
 
 
 
