@@ -22,7 +22,7 @@
 21.redis数据结构(https://blog.csdn.net/qianfeng_dashuju/article/details/90210291)
 22.java封箱拆箱（https://blog.csdn.net/ni357103403/article/details/47130879）
 23.http、https(https://blog.csdn.net/kobejayandy/article/details/52433660)
-24.
+24.websocket实现原理(https://www.cnblogs.com/fuqiang88/p/5956363.html)
 
 
 
