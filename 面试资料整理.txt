@@ -3,7 +3,7 @@
 2.hashMap和concurrentHashMap实现，扩容原理 	>>>>>+2
 3.distinct group by（https://blog.csdn.net/lzj3462144/article/details/78821422）	 >>>>>>>>>>+1
 4.tcp,udp区别，以及相关的应用 	>>>>>>>> +1
-5.线程与进程的区别，操作系统调度的最小单位（线程），资源分配的最小单位（进程）  >>>>>>+1
+5.线程与进程的区别（https://www.cnblogs.com/zhehan54/p/6130030.html），操作系统调度的最小单位（线程），资源分配的最小单位（进程）  >>>>>>+1
 6.get,put,post的区别	>>>>>>>>>>+1
 7.服务端处理跨域问题     >>>>>>>>>>+1
 8.聚簇索引与非聚簇索引的区别　　　>>>>>>>>>> +1
@@ -23,6 +23,7 @@
 22.java封箱拆箱（https://blog.csdn.net/ni357103403/article/details/47130879）
 23.http、https(https://blog.csdn.net/kobejayandy/article/details/52433660)
 24.websocket实现原理(https://www.cnblogs.com/fuqiang88/p/5956363.html)
+25.-100右移四位（https://blog.csdn.net/zyh5540/article/details/79217886）
 
 
 
